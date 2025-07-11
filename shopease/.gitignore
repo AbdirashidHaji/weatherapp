@@ -13,6 +13,8 @@ dist-ssr
 *.local
 
 # Add to your .gitignore
+src/config.js
+*.env
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
